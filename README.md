@@ -1,7 +1,11 @@
 # Syed Haseeb Ul Hasan - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome to My Portfolio!  
+I’m Syed Haseeb Ul Hasan, an aspiring Data Analyst with a passion for turning raw data into meaningful insights. I enjoy working with tools like SQL, Python, and Power BI to solve problems and create impactful dashboards.
 
+This portfolio showcases my journey — from academic projects to hands-on practice with real datasets. My goal is to help organizations make smarter, data-driven decisions while continuously learning and growing in the analytics field.
+
+Feel free to explore my projects, and thank you for visiting!
 ## About This Portfolio Template
 
 This portfolio is designed to demonstrate skills in:
